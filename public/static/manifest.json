@@ -1,9 +1,9 @@
 {
-  "name": "Yogatime",
-  "short_name": "Yogatime",
+  "name": "Day Dreamer",
+  "short_name": "Day Dreamer",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#0095b3",
+  "theme_color": "#05a379",
   "background_color": "#FFFFFF",
   "icons": [
     {
