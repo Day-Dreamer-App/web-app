@@ -23,7 +23,7 @@
   --backgroundImage: {
     /* Gradient direction and overlaying the black color on top of the image for better readability */
     background: linear-gradient(-45deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)),
-      url('../../assets/background-1440.jpg');
+      url('../../assets/Day Dreamer275.jpg');
 
     /* Add loading color for the div */
     background-color: var(--matterColor);
@@ -37,16 +37,16 @@
 
   /* ================ Colors ================ */
 
-  --marketplaceColor: #0095b3;
-  --marketplaceColorLight: #00bfe6;
-  --marketplaceColorDark: #006a80;
+  --marketplaceColor: #05a379;
+  --marketplaceColorLight: #82d1bc;
+  --marketplaceColorDark: #036148;
 
   /* Used with inline CSS SVGs */
-  --marketplaceColorEncoded: %230095b3;
+  --marketplaceColorEncoded: %23c0392b;
 
-  --successColor: #2ecc71;
-  --successColorDark: #239954;
-  --successColorLight: #f0fff6;
+  --successColor: #ec88d4;
+  --successColorDark: #a55f94;
+  --successColorLight: #f3b7e5;
   --failColor: #ff0000;
   --failColorLight: #fff0f0;
   --attentionColor: #ffaa00;
