@@ -1,6 +1,9 @@
-/*
-If you need to add css to the Logo you can do it here. 
 @import '../../marketplace.css';
+
 .logoMobile {
-} 
-*/
+  height: 25px;
+}
+
+.logoDesktop {
+  height: 50px;
+}
