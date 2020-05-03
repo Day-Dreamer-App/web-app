@@ -3,12 +3,14 @@
  */
 
 export const yogaStyles = [
-  { key: 'ashtanga', label: 'Ashtanga' },
-  { key: 'hatha', label: 'Hatha' },
-  { key: 'kundalini', label: 'Kundalini' },
-  { key: 'restorative', label: 'Restorative' },
-  { key: 'vinyasa', label: 'Vinyasa' },
-  { key: 'yin', label: 'Yin' },
+  { key: 'music', label: 'Music' },
+  { key: 'design', label: 'Graphic Design' },
+  { key: 'visualArts', label: 'Visual Arts' },
+  { key: 'photo', label: 'Photography' },
+  { key: 'video', label: 'Videography' },
+  { key: 'fashion', label: 'Beauty + Fashion' },
+  { key: 'dance', label: 'Theater + Dance' },
+  { key: 'writing', label: 'Writing' },
 ];
 
 export const certificate = [
@@ -43,8 +45,10 @@ export const dateRangeLengthFilterConfig = {
   // Options for the minimum duration of the booking
   options: [
     { key: '0', label: 'Any length' },
+    { key: '30', label: '30 minutes', shortLabel: '30min' },
     { key: '60', label: '1 hour', shortLabel: '1h' },
     { key: '120', label: '2 hours', shortLabel: '2h' },
+    { key: '180', label: '3 hours or more', shortLabel: '3h+' },
   ],
 };
 
